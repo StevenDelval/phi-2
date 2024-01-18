@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+langchain
+einops
+sentencepiece
+loralib
+datasets
+bitsandbytes
+accelerate
+ipywidgets
+ipykernel
